@@ -1,47 +1,35 @@
-RestaurantApplication
+# RestaurantApplication
 
-A full-stack restaurant application built using React (Frontend) and Node.js with Express & MongoDB (Backend).
+A full-stack restaurant application built using **React (Frontend)** and **Node.js with Express & MongoDB (Backend)**.
 
-📌 Features
+## 📌 Features
+- 🍽️ Display popular dishes
+- 👨‍🍳 Show restaurant team members
+- 🛒 Manage reservations
+- 🔄 Full-stack integration with MongoDB
+- 🚀 Deployed on **Render**
 
-🍽️ Display popular dishes
+---
 
-👨‍🍳 Show restaurant team members
+## 🚀 Tech Stack
+### Frontend:
+- React.js
+- React Router
+- Tailwind CSS
+- Axios
 
-🛒 Manage reservations
+### Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- dotenv
+- CORS
 
-🔄 Full-stack integration with MongoDB
+---
 
-🚀 Deployed on Render
-
-🚀 Tech Stack
-
-Frontend:
-
-React.js
-
-React Router
-
-Tailwind CSS
-
-Axios
-
-Backend:
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Mongoose
-
-dotenv
-
-CORS
-
-📂 Project Structure
-
+## 📂 Project Structure
+```
 RestaurantApplication/
 │── Backend/        # Node.js backend
 │   ├── models/     # Mongoose models
@@ -61,4 +49,5 @@ RestaurantApplication/
 │   ├── package.json
 │
 └── README.md
+```
 
