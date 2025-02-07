@@ -1,0 +1,179 @@
+{
+    "data": [
+      {
+        "ourQualities": [
+          {
+            "id": 1,
+            "image": "./quality_food.svg",
+            "title": "QUALITY FOOD",
+            "description": "We use only the freshest ingredients to craft delicious meals that delight your taste buds and nourish your body."
+          },
+          {
+            "id": 2,
+            "image": "./super_taste.svg",
+            "title": "SUPER TASTE",
+            "description": "Every dish is prepared with passion, ensuring rich flavors and a perfect blend of spices for an unforgettable dining experience."
+          },
+          {
+            "id": 3,
+            "image": "./fast_delivery.svg",
+            "title": "FAST DELIVERY",
+            "description": "Enjoy your favorite meals delivered hot and fresh, right to your doorstep, in no time!"
+          }
+        ],
+        "dishes": [
+          {
+            "id": 1,
+            "image": "./dinner1.jpeg",
+            "title": "ROASTED LAMB RUMP",
+            "category": "Dinner"
+          },
+          {
+            "id": 2,
+            "image": "./dinner2.png",
+            "title": "CITRUS CURED SALMON",
+            "category": "Dinner"
+          },
+          {
+            "id": 3,
+            "image": "./breakfast1.png",
+            "title": "PAN SEARED SEA BASS",
+            "category": "Breakfast"
+          },
+          {
+            "id": 4,
+            "image": "./dinner3.png",
+            "title": "STUFFED STRAWBERRY",
+            "category": "Dinner"
+          },
+          {
+            "id": 5,
+            "image": "./lunch1.png",
+            "title": "BEEF BURGER MEAL",
+            "category": "Lunch"
+          },
+          {
+            "id": 6,
+            "image": "./dinner4.png",
+            "title": "MUSSELS SOUP",
+            "category": "Dinner"
+          },
+          {
+            "id": 7,
+            "image": "./dinner5.png",
+            "title": "ITALIAN SPAGHETTI",
+            "category": "Dinner"
+          },
+          {
+            "id": 8,
+            "image": "./dinner6.png",
+            "title": "GRILLED FISH",
+            "category": "Dinner"
+          }
+        ],
+        "team": [
+          {
+            "id": 1,
+            "image": "./team_member_1.png",
+            "name": "JOHNATHAN TYLER",
+            "designation": "Founder & Head Chef"
+          },
+          {
+            "id": 2,
+            "image": "./team_member_2.png",
+            "name": "WADE WARREN",
+            "designation": "Sous Chef"
+          },
+          {
+            "id": 3,
+            "image": "./team_member_3.png",
+            "name": "JHON DOE",
+            "designation": "Fast Food Chef"
+          },
+          {
+            "id": 4,
+            "image": "./team_member_4.png",
+            "name": "ALEX COAL",
+            "designation": "Senior Chef"
+          }
+        ],
+        "testimonials": [
+          {
+            "id": 1,
+            "image": "./review1.png",
+            "description": "An exceptional dining experience! The food was fresh, flavorful, and beautifully presented. Highly recommend!",
+            "rating": 4,
+            "userName": "Jane Cooper"
+          },
+          {
+            "id": 2,
+            "image": "./review2.png",
+            "description": "Amazing flavors and outstanding service! Every bite was a delight. Will definitely be coming back.",
+            "rating": 4.5,
+            "userName": "Esther Howard"
+          },
+          {
+            "id": 3,
+            "image": "./review3.png",
+            "description": "Best restaurant I’ve visited in a long time. The food quality and taste were top-notch. Five stars all the way!",
+            "rating": 5,
+            "userName": "Guy Hawkins"
+          }
+        ],
+        "who_we_are": [
+          {
+            "id": 1,
+            "number": "14",
+            "title": "Restaurants",
+            "description": "Spreading joy through flavors at our 14 locations across the country."
+          },
+          {
+            "id": 2,
+            "number": "20",
+            "title": "Chef In Kitchen",
+            "description": "Our team of expert chefs craft every dish with passion and precision."
+          },
+          {
+            "id": 3,
+            "number": "08",
+            "title": "Years Of Experience",
+            "description": "A legacy of excellence, delivering the finest culinary experiences."
+          },
+          {
+            "id": 4,
+            "number": "200",
+            "title": "Food Dishes",
+            "description": "A wide range of mouthwatering dishes to satisfy every craving."
+          }
+        ],
+        "navbarLinks": [
+          {
+            "id": 1,
+            "title": "HOME",
+            "link": "heroSection"
+          },
+          {
+            "id": 2,
+            "title": "ABOUT US",
+            "link": "about"
+          },
+          {
+            "id": 3,
+            "title": "SERVICES",
+            "link": "qualities"
+          },
+          {
+            "id": 4,
+            "title": "TEAM",
+            "link": "team"
+          },
+          {
+            "id": 5,
+            "title": "RESERVATION",
+            "link": "reservation"
+          }
+        ]
+      }
+    ]
+  }
+  
