@@ -1,13 +1,13 @@
 import mongoose from "mongoose";
 export const dbConnection = () => {
   mongoose
-    .connect(process.env.MONGO_URL, {
+    .connect(process.env.MONGODB_URI, {
       dbName: "RestaurantApplication",
     })
     .then(() => {
-      console.log("Database connected");
+      console.log("Database connected successfully");
     })
     .catch((err) => {
-      console.log(err);
+      console.log("Database connection error:", err);
     });
 };
